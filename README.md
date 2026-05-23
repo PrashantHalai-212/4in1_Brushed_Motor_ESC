@@ -32,9 +32,9 @@ A quad-channel electronic speed controller (ESC) designed for driving four brush
 
 ## Files
 
-- `ESC_4in1.kicad_sch` - Schematic design
-- `ESC_4in1.kicad_pcb` - PCB layout
-- `ESC_4in1.kicad_pro` - Project file
+- `4in1_ESC.kicad_sch` - Schematic design
+- `4in1_ESC.kicad_pcb` - PCB layout
+- `4in1_ESC.kicad_pro` - Project file
 
 ## Requirements
 
